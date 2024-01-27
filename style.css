@@ -22,3 +22,43 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+header{
+    margin-bottom: 100px;
+}
+/* Catagory section start */
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1,.cat2,.cat3{
+    border-radius: 10px;
+}
+.catagories img{
+    width: 100px;
+}
+/* card section */
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+    border-radius: 5px;
+}
+.card-footer{
+    border-top: none;
+}
+/* subscribe section start */
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+/* footer section */
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
